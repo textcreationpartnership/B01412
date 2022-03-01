@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the Burghs Royal, to the memorial in behalf of the Burghs of Regality and Baronie and other unfree traders.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01412</idno>
+            <idno type="STC">Wing A3465CA</idno>
+            <idno type="STC">ESTC R172388</idno>
+            <idno type="EEBO-CITATION">52614504</idno>
+            <idno type="OCLC">ocm 52614504</idno>
+            <idno type="VID">175748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175748)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the Burghs Royal, to the memorial in behalf of the Burghs of Regality and Baronie and other unfree traders.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Concerns the Act of Parliament in 1693 which removed trading restrictions and extended the trading rights of regalities and baronies.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Commercial law --  Scotland --  Early works to 1800.</term>
+               <term>Regalities (Law) --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175748:1" rendition="simple:additions"/>
+            <head>
+               <hi>ANSWERS</hi> For the Burghs Royal, to the <hi>MEMORIAL</hi> in behalf of the Burghs of Regality and Baronie and Other Unfree Traders.</head>
+            <p>THe Memorial is ſo ill digeſted, that it is much more eaſie to anſwer it, then to reſume it.</p>
+            <p>The Heads principally complained of, are, that <hi>Retailers</hi> in unfree Burghs ſhould be lyable. and <hi>Secondly,</hi> that the proportion of 10. <hi>lib:</hi> of the Taxt-Roll of 100: <hi>lib,</hi> is an over proportion upon the unfree Traders.</p>
+            <p>But to clear this matter from all the Miſtakes contained in the Memorial, the true im<g ref="char:EOLhyphen"/>port of the Act of Parliament 1693. <hi>for the Communication of Trade,</hi> is, <hi>firſt,</hi> to be conſide<g ref="char:EOLhyphen"/>red, and by the ſaid Act theſe points are evident. 1. That the Act <hi>ratifies</hi> and <hi>approves</hi> the Contract betwixt the Burghs Royal and Mr. <hi>John Buchan</hi> about the ten pounds which he undertook of the 100. <hi>lib,</hi> for the Communication of Trade that he was thereby allowed to grant. 2. After the Expiration of Mr. <hi>John Buchans</hi> Contract, the Commu<g ref="char:EOLhyphen"/>nication of Trade ſhould continue, The Burghs of Regality, Baronie and other unfree Traders, paying or relieving the Royal Burghs of a juſt proportion of the 100 <hi>lib:</hi> of the Tax-roll effeiring to their Trade, and which Proportion was to be equally condeſcended on by the firſt general Meeting of the Royal Burrows after the Expiration of the ſaid Con<g ref="char:EOLhyphen"/>tract, and ſo furth thereafter with a Proviſion of Relief by the Parliament; Whereby it's evident, that the Memorial pleading for a perpetual Communication, muſt alſo acknow<g ref="char:EOLhyphen"/>ledge, that the power of rating the Trade of unfree Burghs and others, and burdening them with an effeirand Proportion of the <hi>Tax-roll,</hi> and diſtributing the ſame among them Belongs in the firſt place to the Convention of the Royal Burrows under Correction of the Parliament. And 3. That for this Communication the Parliament, <hi>Strictly diſcharges all perſons whatſomever, to exerciſe any kind of Trade, except Burgeſſes in Royal Barghs,</hi> and theſe who pay their Proportion of the ſaid <hi>Quota:</hi> Whereby it is manifeſt, that by this Article of the ſaid Act of Parliament, unfree Burghs and others refuſing to pay their Proportion, and accept of the Communication, are not to claim the Benefit of the Act of parliament 1690. But are expreſly diſcharged, to exerciſe any kind of Trade; and the Acts of parliament made in favours of Burghs Royal are to be put in full Execution againſt them, as if the Act 1690: or Act 1672: had never been made, and it is poſitively ordain<g ref="char:EOLhyphen"/>ed, <hi>that none be exempted.</hi>
+            </p>
+            <p>This being the plain meaning and import of the Act 1693. Its evident, that Retailers that have not the Benefit of the ſaid Communication are lyable as unfree Traders; Likeas the Lords of Seſſion, did moſt juſtly find by their Decreets, that they were ſo lyable which is an evident Confirmation; And farther what can be more unreaſonable, then' that the unfree Burghs and other unfree Traders, ſhould pretend to this Liberty of Retail<g ref="char:EOLhyphen"/>ing free of all Burden, when it is perfectly known, that almoſt all the inland Burghs Royal of <hi>Scotland</hi> have no Trade; but that of <hi>Retail,</hi> and yet pay their proportions of the <hi>Tax-roll</hi> for the Liberty thereof: But the true Reaſon and Ground whereupon the Act of parliament 1693. proceeds, puts this matter beyond all Debate; In as much as it is evi<g ref="char:EOLhyphen"/>dent, that the parliament judged the Communication ſo great equal and eaſie a Favour, that they likewiſe judged, that none that ſhould refuſe it could pretend to any manner of Trade to give them any priviledge above the meaneſt Burgh Royal, which is exactly the caſe of Retailers that the Memorial moſt unreaſonably pleads for, nor can there be any thing more manifeſt, then that the foreſaid Act 1693, for Communication of Trade, did take away all former Liberties indulged to unfree Traders, and brought the matter preciſely to this
+<pb n="2" facs="tcp:175748:2"/>point either accept of the Communication offered, or otherwiſe give over all Trade exer<g ref="char:EOLhyphen"/>ced by the Royal Burrows, either by <hi>Export</hi> or <hi>Import,</hi> or by <hi>Retail,</hi> ſince the true deſign of the Act was, thas <hi>unfree Brughs</hi> and others, ſhoul either accept of the Communication with its juſt burden, or otherwiſe, that the Burghs Royal ſhould have all the Trade without exception, but no ways that unfree Burghs ſhould have their freedom to accept or not; And yet tho' not accepting be in a better caſe, then the far greater part of the Burghs Royal, which were moſt abſurd.</p>
+            <p>The Memorial ſeems to ſuppoſe, that the Act 1693: was only a Ratification of Mr <hi>John Buchans</hi> temporarie Contract with the Burrows, but the contrary is ſo manifeſt by the Tenor of the Act, making the Communication perpetual, and this Communication the only Ground of any Liberty for Trade, that who ever reads it, muſt acknowledge that this Act 1693. was purpoſely deſigned to terminat all differences betwixt Burghs Royal and unfree Traders, and to bring the unfree Traders to this preciſe point, either accept of the Communication or Trade none at all.</p>
+            <p>The ſecond ground of Complaint contained in the Memorial, is, That the Proportion of Burden laid upon the <hi>unfree Traders,</hi> is much heavier then that upon the <hi>Royal Burghs</hi> effeiring to their reſpective Trades. But 1. The Memorial repreſents both juſtly and in<g ref="char:EOLhyphen"/>geniouſly, that any alledgiance of this kind, can no ways militat againſt Mr. <hi>Johns Buchans</hi> relief and reimburſement for the bygone five years of his Contract; for ſeing that he ingadged therein <hi>optima fide</hi> and had the Authority of the Parliament, confirming the ſame, and upon the Faith alſwell of the Act of Parliament, as of his foreſaid Bargain and Contract, hath made ſuch conſiderable Advances of publick Payments, be<g ref="char:EOLhyphen"/>ſide the vaſt Charges he hath been at. It were the greateſt Iniquity imaginable, if he ſhould not in the firſt place, be fully reimburſed of all his Advances and Charges with Annualrent thereof; ſpecially ſeing, that he hath recovered ſuch Decreets before the Lords, as would undoubtedly obtain him full payment, were it not his Tenderneſs to oc<g ref="char:EOLhyphen"/>caſion ſo great trouble even to thoſe that are Refractory: And farder, ſuch is Mr. <hi>Johns</hi> unwillingneſs to diſtreſs theſe unfree Traders, that he is content to allow them five years and a quarter from <hi>Lambaſs</hi> laſt, for reimburſing the Sums due to him, and to take his pay<g ref="char:EOLhyphen"/>ments Quarterly, providing that theſe concerned will agree to any ſure Method, where<g ref="char:EOLhyphen"/>by his Reimburſement may be made effectual.</p>
+            <p>But 2. This Complaint of Inequality betwixt the <hi>Burghs Royal</hi> &amp; the <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Traders,</hi> is wholly groundleſs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s may appear by the Taxt-Roll given in by Mr <hi>John Buchan</hi> to the Lords of privy Council, whereby it is evident, that the Sum then Stented was 13 <hi>lib.</hi> 10 <hi>s.</hi> upon the conſideration of 3 <hi>lib.</hi> 10 <hi>s</hi> added for Mr. <hi>Johns</hi> Expenſes, &amp; advance of Mony; yet the Bur<g ref="char:EOLhyphen"/>den thereby put upon the Unfree-Traders, was not half ſo great as the Burden of the <hi>Burghs Royal</hi> in the reſpective Shires, <hi>Comparing Trade with Trade.</hi> 3. To make this Point more clear by Examples, the Unfree-Traders in <hi>Linlithgow-ſhire</hi> and thoſe of <hi>Roxburgh-ſhire,</hi> do both complain to the Parliament, that they are over-burdened, and yet the Unfree-Traders in <hi>Linlithgow-ſhire,</hi> that is, the Towns of <hi>Borowſtounneſs, Grange-pans,</hi> &amp;c. are only ſtented to 22 <hi>s.</hi> in the Taxt-Roll, whereas the Town of <hi>Linlithgow</hi> that hath not the tenth part of their Trade, is Stented to 30 <hi>s.</hi> And as for <hi>Roxburgh-ſhire,</hi> the Unfree-Traders there, <hi>viz.</hi> the Town of <hi>Kelſo, Hawick, Melroſs,</hi> and others therein, are only Stented to 21 <hi>s.</hi> when the Burgh of <hi>Jedburgh</hi> alone is 26 <hi>s.</hi> albeit it hath not the fourth of the Trade of the foreſaid Unfree-Traders in that Shire, and ſo the like Examples may be given in almoſt every Shire of the Kingdom; and it can be made appear, that the Unfree-Burghs have three times more Tunnage in Shipping, (which is the greateſt part of the Trade of the Nation,) then the Royal Burrows have, whereby it may plainly appear, that when the Royal Burrows demand of the Unfree-Traders the Sum of 10 <hi>lib.</hi> only in the Taxt-Roll, and that they Stent themſelves, and pay in their ſeveral proportions to the General-Receiver, their Burden is by far leſs and in effect not the third in proportion to the Royal Burrows, in the ſeveral Shires of the Kingdom.</p>
+            <p>The Memorial alledges, That the <hi>Royal Burrows</hi> have Lands, and conſiderable Common Goods, whereby they may pay a far greater proportion then the Unfre-Burghs. <hi>To which it is Anſwered,</hi> That ſeveral <hi>Royal Burghs,</hi> as <hi>Dyſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Culroſs, Eaſter-easter,</hi> and others, have no common Goods, and yet do pay their part of the Taxt-Roll to all <hi>Ceſſes and Sup<g ref="char:EOLhyphen"/>plies,</hi> effeirand to their Trade. But 2. It is moſt certain in general, that the common Goods given to Burrows, was not at all given to them for the payment of their ſixt part of the <hi>Ceſs, Supply,</hi> and the like publick Burdens, but really and truely for the ſupport only of the reſpective Burghs, as to their particular and reſpective Expenſes, for <hi>Watching, Warding, building and repairing of Priſon-Houſes, providing and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urniſhing of Guard-Houſes, main<g ref="char:EOLhyphen"/>taining of their Kirks, Harbours, and other publick Works, ſending of Commiſſioners to Par<g ref="char:EOLhyphen"/>liaments, Conventions of Eſtates, and general and particular Convention of Burrows,</hi> and de<g ref="char:EOLhyphen"/>fraying their other incident Expenſes, to all which, it is well known that the common
+<pb n="3" facs="tcp:175748:2"/>Goods of the <hi>Royal Burrows</hi> are ſo little ſufficient, that the greateſt part of them have been neceſſitat for theſe very ends and uſes to Stent their Inhabitants, or contract Debt, to which might be added, that ſeveral Unfree-Burghs have alſo common Goods. But 3. The truth of the matter is, that <hi>Ceſs, Supply, and the like Burdens,</hi> whereof the <hi>Royal Burrows</hi> bear the ſixth part, are directly Impoſed on them in regard of their Trade, and the Eſtates per<g ref="char:EOLhyphen"/>ſonal and real that their Burgeſſes have ariſing from it, of which Ceſs and other Burdens, it is well known, that even their real Eſtates bear ſo ſmall a proportion of it, that they are not only exceedingly burdened, but were they to pay the foreſaid publick Dues out of the ſaid real Eſtates, the ſame in many parts would be quite exhauſted, but in effect all this is but Trifling! <hi>It is the Trade of the</hi> Royal Burghs <hi>that is conſidered as to the pay<g ref="char:EOLhyphen"/>ment of Ceſs and Supply,</hi> and ſince the <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Burghs,</hi> and others, have the Communica<g ref="char:EOLhyphen"/>tion thereof by Act of Parliament, it is moſt juſt, and <hi>ordained</hi> by the ſame Act, that they ſhould alſo bear their proportion of the ſaid publick Burdens, and when their Intereſt in Trade ſhall be duely conſidered, as above-demonſtrat, it will plainly appear that the fore<g ref="char:EOLhyphen"/>ſaid 10 <hi>lib.</hi> of the 100 <hi>lib.</hi> is a very moderat and eaſie proportion, and would be certainly found ſo, if the diſtribution thereof were once equally and fairly ſetled.</p>
+            <p>And where it is alledged, That the <hi>Cuſtom-Books</hi> are the beſt rule for valuing the Trade, and that by theſe it will appear that the Unfree-Taders have not the <hi>fourtieth part</hi> of the Trade of the Nation. <hi>It is Anſwered,</hi> That the <hi>Cuſtom-Books</hi> are no rule: For 1. A great part of the Burden on Trade, is payed by Retailers in <hi>Burghs Royal,</hi> whoſe Trade neither doth nor can appear in the <hi>Cuſtom-Books.</hi> 2. The Trade that doth appear by the ſame <hi>Cnſtom-Books,</hi> is again diffuſed to the Retailers in <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Burghs,</hi> as well as to the Retailers in <hi>Burghs Royal.</hi> 3. The <hi>Cuſtom-Books</hi> are only kept at Sea-Towns and Ports, where a great quantity of Goods is entered in other mens Names, and for certain doth not belong to the Merchants of the reſpective <hi>Burghs Royal,</hi> but to Merchants of other Towns, both free and unfree, as may be ſeen at <hi>Leith, Newport-Glaſgow Preſtoun-pans, Borrowſtoun<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c. 4. If certain Unfree-Towns, as <hi>Borrowſtounneſs, Grange-pans, Preſtoun-pans, Greenock, Kelſo, and the like,</hi> were rated according to the <hi>Cuſtom-Books,</hi> theſe alone would pay the 10 <hi>lib.</hi> without burdening the reſt of the Unfree-Burghs, whereby it is manifeſt, that the <hi>Cuſtom-Books</hi> are no rule in this matter; but the true and only juſt rule is, that the proportion of Trade, whether by <hi>Export,</hi> or <hi>Import,</hi> or <hi>Retail,</hi> ſhould determine the proportion of the Burden, and by this rule it will quickly appear how light a part the Un<g ref="char:EOLhyphen"/>free-Traders have by the ſaid 10 <hi>lib.</hi> proportion.</p>
+            <p>But the true, ſhort, and clear account of this whole matter is, that ſuch of the Unfree-Traders as have the real Benefit, will not agree to an equal diſtribution of the 10 <hi>lib.</hi> among themſelves, which would render all eaſie, and therefore a clamour is raiſed on the account of ſome of the ſmaller Unfree-Burghs, that their own Neighbours only, endeavour to over-burden. But 1. As to what is paſt, let Mr. <hi>John Buchan</hi> be relieved, as all do agree And 2. As to the future, let the Unfree Traders, either take upon them the Burden of the ſaid 10 <hi>lib.</hi> which for certain (if juſtly divided) will be both light and eaſie; or otherwiſe, let them give over, and renounce all Trade in favours of the <hi>Burghs Royal,</hi> who will never decline the whole Burden, when they ſhall have the whole Trade, according to the true meaning of the ſaid Act 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3, and there is an end of the Contraverſie.</p>
+            <p>The Memorial doth alſo plead, That the Unfree-Burghs undergoing their proportion of the Taxt-Roll, may alſo be allowed to be repreſented in the Conventions of Burrows, but by what right or reaſon? The <hi>Royal Burghs</hi> are ſuch by their <hi>Charters of Foundation and Erection,</hi> whereby they alſo make the third Eſtate of the Kingdom, and have the Right of their <hi>Conventions</hi> eſtabliſhed by many Acts of Parliament, whereas the Unfree-Traders are really <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers</hi> upon the <hi>Burghs Royal,</hi> as to the point of Trade, and the Communication is only introduced as an expedient, that ſeing that they will and do urſurp Trade, they may have a lawful Title to it, paying their juſt proportion of the Burden, which can never be a ground to give them acceſs to other Priviledges of the <hi>Royal Burghs,</hi> whereof there is not the leaſt Veſtige or Title in the Acts of Parliament, and in effect all the vagrant Chap-men in the Countrey may as well crave to be repreſented in the foreſaid <hi>Convention,</hi> as the foreſaid <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Burghs.</hi> They alledge indeed, that ſince they come in to bear Burden, and have a vi<g ref="char:EOLhyphen"/>ſible Intereſt, to ſee that they be not wronged in altering or changing of the Taxt-Roll, they ought alſo to be repreſented; but the Act of Parliament 1693 is moſt clear in the contrary, giving (as reaſon is) the power of proportionating, and likewiſe of altering and chang<g ref="char:EOLhyphen"/>ing the Taxt-Roll, expreſly to the <hi>Burghs Royal,</hi> in their general Coventions, and provid<g ref="char:EOLhyphen"/>ing no other remedy for the <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Burghs,</hi> if over-burdened, but to apply to the Parlia<g ref="char:EOLhyphen"/>ment, which is indeed ſufficient; and ſince they have ſuch an eaſie <hi>Offer of Communication,</hi> it is but too viſible, that all their quarrellings at the Burden that attends it, are plainly partial, ſelf-intereſt, and untoward Humors.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
